@@ -1,0 +1,5 @@
+bin/
+
+.envrc
+
+go.sum
